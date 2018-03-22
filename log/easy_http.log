@@ -1,0 +1,20 @@
+2017-03-12 08:01:27.761 INFO src/epoll_socket.cpp(69): thread pool not set, we will build for core size: 4
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(23): thread start cb is null
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(23): thread start cb is null
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(23): thread start cb is null
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(61): starting thread: 1455662848
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(66): locking: 1455662848
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(70): unlocking and waiting: 1455662848
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(23): thread start cb is null
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(61): starting thread: 1430484736
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(66): locking: 1430484736
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(61): starting thread: 1447270144
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(70): unlocking and waiting: 1430484736
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(53): 4 threads created by the thread pool
+2017-03-12 08:01:27.761 DEBUG src/thread_pool.cpp(61): starting thread: 1438877440
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(66): locking: 1447270144
+2017-03-12 08:01:27.762 INFO src/epoll_socket.cpp(91): bind for ip: 127.0.0.1 success
+2017-03-12 08:01:27.762 INFO src/epoll_socket.cpp(95): start server socket on port: 3456
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(70): unlocking and waiting: 1447270144
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(66): locking: 1438877440
+2017-03-12 08:01:27.762 DEBUG src/thread_pool.cpp(70): unlocking and waiting: 1438877440
