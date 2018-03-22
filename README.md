@@ -1,2 +1,2 @@
-# easy_http
-easy http server
+# easy_http_server
+An easy http server
